@@ -16,7 +16,7 @@
     * bestow
 * **pellucid**
     * esaily understood
-* **inscrutable**
+* **inscrutable** question
 * a **humdrum** task
 * her **clairvoyance** about the market
     * **presentiment**
@@ -63,7 +63,7 @@
     * giving or conveying a warning or reprimand
 * **openhanded** philanthropy
     * generous
-* laudatory remark
+* **laudatory** remark
     * giving accolade
 * **premonitory**
     * use the adjective premonitory to describe something that predicts something bad will happen
@@ -75,16 +75,16 @@
     * pass on or delegate to
 * **fixated** on
     * **obsessed** with
-* even-tempered
-    * phlegmatic
-* imitative
-    * derivative
-* broad based
-    * general
+* **even-tempered**
+    * **phlegmatic**
+* **imitative**
+    * **derivative**
+* **broad-based**
+    * **general**
 * archipelago
     * 列岛
-* when the news came out they were aghast
-    * appalled
+* when the news came out they were **aghast**
+    * **appalled**
 * her **bemused** expression
     * confused/puzzled
 * **whisk**
@@ -99,3 +99,22 @@
 * **scuffle**
     * a short, confused fight or struggle at close quarters.
 * a **specious** argument
+* eponym
+    * a person after whom a discovery, invention, place, etc., is named or thought to be named.
+* **convivial** event/ **convivial** friend
+* aggression and **virility** were highly prized in soldiers
+* screed
+    * a long speech or piece of writing, typically one regarded as tedious.
+
+* legion
+    *  a large military force
+    *  a very large number of
+* innumerable
+    * countless
+* spurn the offer
+    * reject
+* all but one step left
+*  an allusion to Shakespeare
+    *  a quick reference to something that your audience will have to already know in order to "get."
+* sclerotic
+    * 硬化的
