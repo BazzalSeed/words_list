@@ -99,22 +99,24 @@
 * **scuffle**
     * a short, confused fight or struggle at close quarters.
 * a **specious** argument
-* eponym
+* **eponym**
     * a person after whom a discovery, invention, place, etc., is named or thought to be named.
 * **convivial** event/ **convivial** friend
 * aggression and **virility** were highly prized in soldiers
-* screed
+* **screed**
     * a long speech or piece of writing, typically one regarded as tedious.
-
-* legion
+* **legion**
     *  a large military force
     *  a very large number of
-* innumerable
+* **innumerable**
     * countless
-* spurn the offer
+* **spurn** the offer
     * reject
-* all but one step left
-*  an allusion to Shakespeare
+* **all but** one step left
+*  an **allusion** to Shakespeare
     *  a quick reference to something that your audience will have to already know in order to "get."
-* sclerotic
+* **sclerotic**
     * 硬化的
+* his **customary** contempt against new technology
+    * usual
+* Marshes are nutrient-rich wetlands that support a variety of reeds and grasses, while swamps are defined by their ability to support woody plants and trees. Bogs are characterized by their poor soil and high peat content, while fens have less peat and more plant life than a bog.Dec 2, 2013
