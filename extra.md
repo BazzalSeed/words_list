@@ -119,4 +119,19 @@
     * 硬化的
 * his **customary** contempt against new technology
     * usual
-* Marshes are nutrient-rich wetlands that support a variety of reeds and grasses, while swamps are defined by their ability to support woody plants and trees. Bogs are characterized by their poor soil and high peat content, while fens have less peat and more plant life than a bog.Dec 2, 2013
+* Marshes are nutrient-rich wetlands that support a variety of reeds and grasses, while swamps are defined by their ability to support woody plants and trees. **Bogs** are characterized by their poor soil and high **peat** content, while **fens** have less peat and more plant life than a bog.Dec 2, 2013
+* The number of speeding tickets one receives is by no means a reliable measure of culpability. Some resourceful drivers, in fact, prove that in certain cases the inverse is true. That is those savvy enough to have availed themselves of the latest cellular phone applications receive up-to-the-minute information on the presence of highway patrolmen—greater excess speed, in these instances, simply implies a greater degree of confidence.
+* Academics, when locking rhetorical horns, can toss off the most pointed barbs by deploying nothing more than an understated phrase, so it should come as no surprise that they are also prone to seeing snubs/slights where none exist.
+* **equitable** decisions
+* crampon
+* galling attitude
+* they are almost embarrassingly fulsome in their appreciation / a fulsome harvest
+* he was a bit squeamish at the sight of the giant needles
+* Use the adjective treacly to describe something that has a sticky, sweet flavor. Your dad's chocolate pecan pie might be a little too treacly for your taste.
+* hang out with your chum/crony
+* slight/snub
+* **pastiche** of **bygone** styles
+* A **superlative** is the highest attainable level or degree of something. As an adjective superlative means highest in quality.
+* If a friend describes your dot matrix printer as **superannuated**, then you should probably plan a shopping trip for electronics. Your friend has just pointed out that your printer is obsolete.
+* **antediluvian**/**antique**/**immemorial**/**archaic**
+
