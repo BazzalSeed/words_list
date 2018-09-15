@@ -134,4 +134,10 @@
 * A **superlative** is the highest attainable level or degree of something. As an adjective superlative means highest in quality.
 * If a friend describes your dot matrix printer as **superannuated**, then you should probably plan a shopping trip for electronics. Your friend has just pointed out that your printer is obsolete.
 * **antediluvian**/**antique**/**immemorial**/**archaic**
+* figment
+* he became besotted with his best friend's sister
+* agora
+    * (in ancient Greece) a public open space used for assemblies and markets.
+* uncouth
+    * gauche
 
