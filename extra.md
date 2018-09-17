@@ -140,4 +140,14 @@
     * (in ancient Greece) a public open space used for assemblies and markets.
 * uncouth
     * gauche
-
+* weep
+* the water percolating through the soil may leach out minerals
+* decrepit old man
+* vituperative words
+* purview of sicence
+* arbiter
+* reprise
+* bumbling
+* staid
+* reprise
+*
