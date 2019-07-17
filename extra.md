@@ -46,6 +46,7 @@
     * in poor health
 * The new play is **trounced** by the critics
     * destroy completely
+    * criticize harshly
 * **sardonic**
     * sarcastic
 * **corral**
@@ -105,6 +106,7 @@
 * aggression and **virility** were highly prized in soldiers
 * **screed**
     * a long speech or piece of writing, typically one regarded as tedious.
+* patients with liver disease may be susceptible to infection
 * **legion**
     *  a large military force
     *  a very large number of
@@ -113,13 +115,14 @@
 * **spurn** the offer
     * reject
 * **all but** one step left
+    * nearly
 *  an **allusion** to Shakespeare
     *  a quick reference to something that your audience will have to already know in order to "get."
 * **sclerotic**
     * 硬化的
 * his **customary** contempt against new technology
     * usual
-* Marshes are nutrient-rich wetlands that support a variety of reeds and grasses, while swamps are defined by their ability to support woody plants and trees. **Bogs** are characterized by their poor soil and high **peat** content, while **fens** have less peat and more plant life than a bog.Dec 2, 2013
+* **Marshes** are nutrient-rich wetlands that support a variety of reeds and grasses, while **swamps** are defined by their ability to support woody plants and trees. **Bogs** are characterized by their poor soil and high **peat** content, while **fens** have less peat and more plant life than a bog.Dec 2, 2013
 * The number of speeding tickets one receives is by no means a reliable measure of culpability. Some resourceful drivers, in fact, prove that in certain cases the inverse is true. That is those savvy enough to have **availed** themselves of the latest cellular phone applications receive up-to-the-minute information on the presence of highway patrolmen—greater excess speed, in these instances, simply implies a greater degree of confidence.
 * Academics, when locking rhetorical horns, can toss off the most pointed barbs by deploying nothing more than an understated phrase, so it should come as no surprise that they are also prone to seeing **snubs/slights** where none exist.
 * **equitable** decisions
@@ -150,6 +153,7 @@
 * **purview** of science
 * **arbiter**
 * **reprise**
+    * a repeated message
 * **bumbling**
     * acting in a confused or ineffectual way; incompetent.
 * **staid**
@@ -180,7 +184,7 @@
 * **studied**
     * Studied describes a result achieved, not spontaneously, but by calculated and deliberate effort. It will probably take a studied effort to not appear nervous when you give an oral presentation.
 * **edification**
-* You are what you eat" is a **dictum**, and so is a law requiring you to curb your dog. A dictum is a formal pronouncement, a rule, or a statement that expresses a truth universally acknowledged.
+* You are what you eat" is a **dictum**, and so is a law requiring you to curb your dog. A **dictum** is a formal pronouncement, a rule, or a statement that expresses a truth universally acknowledged.
     * an authoritative declaration
 * **prose**
     * ordinary writings
@@ -199,17 +203,25 @@
 * **précis**
     * a summary or abstract of a text or speech/synopsis
 * **locomotion**
+    * movement or the ability to move from one place to another.
 * he gave me a hand in **trying** times
 * this is **moot**/ the tunning of the system renders moot
     * debatable
     * having no practical significance
 * **bona fide**
     * real, genuine
-* stagnant
-* ineptitude
-* gleeful
-* decreed
-* fiat
+* **stagnant**
+    * showing no activity; dull and sluggish.
+* **well-to-do**
+    * wealthy
+* **ineptitude**
+* **gleeful**
+    * exuberantly or triumphantly joyful.
+* **decreed**
+* **fiat**
+    * a formal authorization or proposition; a decree.
+* **mortify**
+    * cause to feel ashamed
 * **encroachment**
     * minor **encroachments** on our individual liberties
 * **parlance**
@@ -218,29 +230,44 @@
 A **perch** is a temporary resting place. In the middle of climbing a tree, you might find a good perch on a high branch. Bet some birds will be perching there too.
 * **rummage** through the drawers
 * Cryptozoology is predicated on a notion that is every bit as elusive as the very **quarry** it aims to study: one cannot disprove the existence of that which does not exist.
-* run afoul
+* run **afoul**
     * in conflict with
-* precipice
+* **precipice**
     * a very steep rock face or cliff, typically a tall one.
-* "our sight would be endued with a far greater sharpness/"nobody begrudges a single penny spent on health
+* our sight would be endued with a far greater sharpness/"nobody **begrudges** a single penny spent on health
     * envy the possession of
     * give reluctantly or resentfully.
 * endue
     * endow -> endowment
     * equip something with
-* uncommon retort
+* uncommon **retort**
     * a sharp, angry, or wittily incisive reply to a remark
-* the ambit of philosophy
-* a mishmash of outmoded ideas
-* he was making progress, albeit rather slowly"
+* the **ambit** of philosophy
+    * scope
+* a **mishmash** of outmoded ideas
+* he was making progress, **albeit** rather slowly"
 * hemmed in
-* pat
-* melancholic vs treacly
-* prognostic
+    * enclosed
+* **pat**
+    * opportune
+* **melancholic** vs treacly
+    * treacly means sweet or overly sentimental
+* **prognostic**
+    * serving to predict the likely outcome of a disease or ailment; relating to a medical prognosis.
 * gawk at
-* broadside
+    * stare at (stupidly)
+* **broadside**
     * a strongly worded critical attack
-* prognosis
+* **prognosis**
     * the likely course of a disease or ailment.
-* implicate
+* **implicate**
     * incriminating
+* **inculcate**
+    * instill (an attitude, idea, or habit) by persistent instruction.
+* the **advent** of television
+* While **outstrip** might make you think about undressing, it really means outdoing
+* **susceptible** -> susceptibility
+* there is growing **disaffection** with large corporations
+* meld
+    * combine
+*
